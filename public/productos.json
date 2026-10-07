@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ramo de Rosas Rojas",
+    "categoria": "ramos",
+    "precio": 18500,
+    "stock": 12,
+    "emoji": "🌹",
+    "color": "#fde2e4",
+    "descripcion": "Docena de rosas rojas frescas, envueltas en papel kraft con un lazo de seda. Ideal para aniversarios y ocasiones románticas."
+  },
+  {
+    "id": 2,
+    "nombre": "Bouquet Primavera",
+    "categoria": "ramos",
+    "precio": 15200,
+    "stock": 10,
+    "emoji": "💐",
+    "color": "#fff1e6",
+    "descripcion": "Mezcla colorida de flores de estación: gerberas, lisianthus y verdes frescos. Alegría pura para cualquier día."
+  },
+  {
+    "id": 3,
+    "nombre": "Girasoles del Sol",
+    "categoria": "ramos",
+    "precio": 13900,
+    "stock": 8,
+    "emoji": "🌻",
+    "color": "#fff3bf",
+    "descripcion": "Seis girasoles grandes con follaje decorativo. Un ramo que ilumina cualquier ambiente."
+  },
+  {
+    "id": 4,
+    "nombre": "Caja de Suculentas",
+    "categoria": "plantas",
+    "precio": 11800,
+    "stock": 15,
+    "emoji": "🪴",
+    "color": "#d8f3dc",
+    "descripcion": "Caja de madera con cuatro suculentas surtidas. De fácil cuidado, perfectas para regalar."
+  },
+  {
+    "id": 5,
+    "nombre": "Orquídea Phalaenopsis",
+    "categoria": "plantas",
+    "precio": 24900,
+    "stock": 6,
+    "emoji": "🌸",
+    "color": "#f3d5f5",
+    "descripcion": "Orquídea de interior en maceta de cerámica blanca. Elegante, duradera y con floración prolongada."
+  },
+  {
+    "id": 6,
+    "nombre": "Mini Cactus Trío",
+    "categoria": "plantas",
+    "precio": 8700,
+    "stock": 20,
+    "emoji": "🌵",
+    "color": "#e9f5db",
+    "descripcion": "Tres cactus pequeños en macetas de terracota. Ideales para escritorios y rincones luminosos."
+  },
+  {
+    "id": 7,
+    "nombre": "Box Regalo Cumpleaños",
+    "categoria": "regalos",
+    "precio": 21500,
+    "stock": 9,
+    "emoji": "🎁",
+    "color": "#ffe5d9",
+    "descripcion": "Caja con flores secas, vela aromática y tarjeta personalizada. Un detalle completo para sorprender."
+  },
+  {
+    "id": 8,
+    "nombre": "Globos y Flores",
+    "categoria": "regalos",
+    "precio": 19800,
+    "stock": 7,
+    "emoji": "🎈",
+    "color": "#e0f2fe",
+    "descripcion": "Arreglo floral acompañado de globos metalizados con helio. Perfecto para festejos y celebraciones."
+  },
+  {
+    "id": 9,
+    "nombre": "Vela Aromática Peonía",
+    "categoria": "regalos",
+    "precio": 6900,
+    "stock": 25,
+    "emoji": "🕯️",
+    "color": "#fce7f3",
+    "descripcion": "Vela de cera de soja con aroma a peonías y jazmín. Quemado aproximado de 40 horas."
+  }
+]
