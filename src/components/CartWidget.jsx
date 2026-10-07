@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext.jsx";
 
 export default function CartWidget() {
-  // La cantidad se obtiene del CartContext y se actualiza en tiempo real
   const { getCartQuantity } = useCart();
   const total = getCartQuantity();
 
