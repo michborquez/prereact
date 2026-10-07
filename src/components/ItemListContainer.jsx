@@ -15,7 +15,6 @@ export default function ItemListContainer() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // Carga los productos desde el archivo local productos.json
   useEffect(() => {
     setLoading(true);
     setError(null);
