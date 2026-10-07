@@ -72,7 +72,6 @@ export default function ItemDetailContainer() {
           </p>
 
           {disponible > 0 ? (
-            // key para reiniciar el contador cuando cambia el stock disponible
             <ItemCount key={disponible} stock={disponible} onAdd={handleAdd} />
           ) : (
             <p className="detail__stock">
